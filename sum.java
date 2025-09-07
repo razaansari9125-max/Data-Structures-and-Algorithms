@@ -1,11 +1,14 @@
-public class Main {
-    public static void main(String[] args) {
-        int n = 36749, sum = 0;
-        while (n > 0) {
-            int d = n % 10;
-            if (d % 3 == 0) sum += d;
+class Test {
+    int sum(int n) {
+        int s = 0;
+        while(n > 0) {
+            s += n % 10;
             n /= 10;
         }
-        System.out.println(sum);
+        return s;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Test().sum(123));
     }
 }
