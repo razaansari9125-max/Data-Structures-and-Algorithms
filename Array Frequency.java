@@ -22,4 +22,4 @@ public class Frequency {
 	            System.out.println(arr1[i] + " appears " + count + " times");
 	        }
 		}
-	}
+}
