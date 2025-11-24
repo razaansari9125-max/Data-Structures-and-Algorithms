@@ -16,4 +16,4 @@ public class SecondSmallest {
         }
         System.out.println("2nd Samllest number is: " + arr[1]);
     }
-}
+	}
