@@ -11,6 +11,6 @@ public class SumAllElements {
         }
 
         System.out.println("Sum of all elements: " + sum);
-    }
+	}
 
 }
