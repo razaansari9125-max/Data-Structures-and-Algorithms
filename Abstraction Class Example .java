@@ -1,6 +1,6 @@
 Package com.abstraction;
 
-public class AbstractionClassExample {
+Public class AbstractionClassExample {
 	static abstract class Vehicle
 	{
 		abstract void start(); //abstract method
