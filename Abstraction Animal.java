@@ -1,4 +1,4 @@
-abstract class Animal {
+pbstract class Animal {
     abstract void sound();  // abstract method
 
     void sleep() {          // normal method
