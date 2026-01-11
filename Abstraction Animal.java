@@ -1,4 +1,4 @@
-Abstract class Animal {
+abstract class Animal {
     abstract void sound();  // abstract method
 
     void sleep() {          // normal method
