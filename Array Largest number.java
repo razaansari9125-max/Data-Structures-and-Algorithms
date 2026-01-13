@@ -1,4 +1,4 @@
-Package com.Array;
+package com.Array;
 
 public class largestNumber {
 	public static void main(String[] args) {
