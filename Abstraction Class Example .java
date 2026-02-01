@@ -1,5 +1,4 @@
 Package com.abstraction;
-
 Public class AbstractionClassExample {
 	static abstract class Vehicle
 	{
