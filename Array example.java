@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class ArrayExample2 {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class ArrayExample2 {
         }
 
         System.out.println("You entered:");
-        for (int num : arr) {
+         (int num : arr) {
             System.out.print(num + " ");
         }
     }
