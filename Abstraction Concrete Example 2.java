@@ -1,6 +1,6 @@
 package com.abstraction;
 
-public class AbstractionConcreteExample2 {
+public class AbstractionConcreteExample2 p
 	//Example 2: Abstract + Concrete class
 	static abstract class Shape
 	{
