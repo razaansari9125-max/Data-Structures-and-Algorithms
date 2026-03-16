@@ -9,7 +9,8 @@ public class RemoveDuplicateElements {
 		HashSet<Integer> duplicate = new HashSet<>();
 		
 		for(int dup:arr)
-		{
+			{
+	
 			if(!seen.add(dup))
 			{
 				duplicate.add(dup);
