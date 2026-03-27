@@ -7,6 +7,6 @@ public class PrintArray {
         System.out.println("Array elements numbers:");
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
-        }
+		}
 	}
 }
