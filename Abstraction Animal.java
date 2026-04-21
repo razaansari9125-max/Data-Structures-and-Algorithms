@@ -1,6 +1,5 @@
 abstract class Animal {
     abstract void sound();  // abstract method
-
     void sleep() {          // normal method
         System.out.println("Animal is sleeping");
     }
