@@ -3,6 +3,7 @@ abstract class Animal {
     void sleep() {          // normal method
         System.out.println("Animal is sleeping");
     }
+    
 }
 
 class Dog extends Animal {
